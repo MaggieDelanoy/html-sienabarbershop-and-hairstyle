@@ -92,19 +92,19 @@ button {
   padding-left: 10px;
   color: black;
   animation: shake 10s;
-  border: solid 4x white;
+  border: solid 4x black;
   border-radius: 8px;
 }
 
 button:hover {
   background: green;
-  color: black;
+  color: white;
   text-decoration: none;
 }
 
 button:active {
   background-color: green;
-  color: black;
+  color: white;
   border: solid 6x white;
 }
 
@@ -124,5 +124,6 @@ button:active {
     transform: translateY(-10%);
   }
 }
+
 
 
