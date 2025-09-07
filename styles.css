@@ -81,7 +81,7 @@ button {
   font-family: "PT Serif", serif;
   font-weight: bold;
   font-style: normal;
-  background-color: black;
+  background-color: green;
   height: 120px;
   width: 200px;
   margin-top: 0;
@@ -92,12 +92,12 @@ button {
   padding-left: 10px;
   color: white;
   animation: shake 10s;
-  border: solid 4px black;
+  border: solid 4x white;
   border-radius: 8px;
 }
 
 button:hover {
-  background: white;
+  background: green;
   color: black;
   text-decoration: none;
 }
@@ -124,3 +124,4 @@ button:active {
     transform: translateY(-10%);
   }
 }
+
