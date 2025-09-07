@@ -81,7 +81,7 @@ button {
   font-family: "PT Serif", serif;
   font-weight: bold;
   font-style: normal;
-  background-color: green;
+  background-color: white;
   height: 120px;
   width: 200px;
   margin-top: 0;
@@ -90,7 +90,7 @@ button {
   padding-right: 10px;
   padding-bottom: 20px;
   padding-left: 10px;
-  color: white;
+  color: black;
   animation: shake 10s;
   border: solid 4x white;
   border-radius: 8px;
@@ -124,4 +124,5 @@ button:active {
     transform: translateY(-10%);
   }
 }
+
 
